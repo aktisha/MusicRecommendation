@@ -8,8 +8,8 @@ Original file is located at
 """
 
 #SHHHHHHHHHHHHHHHHH
-client_id = '0265c827f97e42738db7c82abe3ec293'
-client_secret = 'b02108ce425449f9997f0eb20810b5ce'
+client_id = 'cliend_id'
+client_secret = 'secret_key'
 
 """
 
